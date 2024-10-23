@@ -1,1 +1,1 @@
-NBA Table editing exercise (part of Modern JavaScript course)
+Modern JavaScript course: Udemy
